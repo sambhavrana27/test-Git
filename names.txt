@@ -1,0 +1,17 @@
+ambhav Rana
+Sanjeev Rana
+
+
+
+
+
+
+
+:w --> save to a file
+:q --> quit out of editor file
+:q! --> quit out of editor without saving file
+w --> move one word forward at a time in file
+b --> move one word back at a time in file
+:wq --> save file and quit editor
+:1,5y --> yank (copy) lines 1 through 5
+:1,5d --> cut lines 1 through 5
